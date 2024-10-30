@@ -1,0 +1,1 @@
+{"train_imgs_path": "/tmp/food-101/train", "valid_imgs_path": "/tmp/food-101/valid", "batch_size": 64, "num_workers": 4, "lr": 0.001, "n_epochs": 50, "random_seed": 1994, "model_name": "inception_v3", "save_path": "run_inception/"}
