@@ -1,3 +1,6 @@
+## (UPDATE) 
+Note that the pretrained models have not been uploaded to github due to the large file sizes.
+
 ## Install environment (I use conda on mila-cluster)
 
 Should be as simple as running 
